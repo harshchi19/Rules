@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+PyPDF2
+groq
+plotly
+pdfplumber
+requests
