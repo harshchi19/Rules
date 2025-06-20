@@ -17,7 +17,7 @@ from io import BytesIO
 
 # Initialize APIs
 MISTRAL_API_KEY = "TEZ0H2uTHVYGq7yUgK1y9hpJomSYuTV7"
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 
 # Initialize Groq client
 groq_client = Groq(api_key=GROQ_API_KEY)
